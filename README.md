@@ -1,2 +1,4 @@
 # Ckan-For-MacOS
-Ckan GUI for macOS.
+this is a Ckan GUI for macOS.
+
+***WARNING THIS IS UNDER DEVELOPMENT, IT IS VERRY BUGGY***
